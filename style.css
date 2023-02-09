@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background: linear-gradient(rgba(17, 17, 17, 0.648), rgba(20, 20, 20, 0.665)), url(./imagem/capa.jpg);
+    background: linear-gradient(rgba(17, 17, 17, 0.402), rgba(20, 20, 20, 0.396)), url(./imagem/capa.jpg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
