@@ -1,15 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
-/* Zerando CSS */
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-
-/* Fundo-tela */
 
 html {
     width: 100vw;
@@ -20,14 +15,12 @@ html {
 }
 
 body {
-    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(./imagem/img5.jpg);
+    background: linear-gradient(rgba(17, 17, 17, 0.648), rgba(20, 20, 20, 0.665)), url(./imagem/capa.jpg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
     background-repeat: no-repeat;
 }
-
-/* Menu - Header - NavBar */
 
 header {
     width: 100%;
@@ -71,7 +64,7 @@ header {
     left: 0;
     width: 0px;
     height: 1px;
-    background-color: rgb(251, 255, 0);
+    background-color: rgb(160,82,45);
     transition: all 1.5s ease;
 }
 
@@ -139,7 +132,7 @@ main {
 }
 
 .botao button a:hover {
-    color: rgb(251, 255, 0);
+    color:  rgb(160,82,45);
     border: none;
 }
 
